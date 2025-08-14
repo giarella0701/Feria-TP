@@ -1,2 +1,2 @@
 # Feria-TP
-Aqui esta un sitio web de borrador, para elejir en conjunto
+Página informativa proyecto TP Ecosense - Grupo 1 (Greenmind)

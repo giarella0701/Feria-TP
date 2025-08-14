@@ -684,3 +684,8 @@ RESPONSIVE DESIGN
 .image_gallery img:hover {
     transform: scale(1.05);
 }
+
+.right{
+    display: flex;
+    justify-content: center;
+}
